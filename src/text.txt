@@ -1,0 +1,5 @@
+react router dom and netlify
+react icons
+contentful api
+https://styled-components.com/
+context-react
